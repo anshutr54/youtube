@@ -1,0 +1,45 @@
+img{
+    object-fit:cover;
+    object-position: center;
+    height: 200px;
+    width:200px;
+}
+p{
+    font-family: arial;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+.name{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.input{
+    color: gray;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+div{
+    border-width: 0px;
+    border-style: solid;
+    display:inline-block;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-right: 20px;
+}
+button{
+    color: white;
+    background-color: rgb(11, 92, 198);
+    border: none;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 10px;
+    width: 115px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
